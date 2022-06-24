@@ -26,13 +26,11 @@ a{
 }
 a:hover{
     
-    color:crimson;
+    color:rgb(27, 220, 20);
 }
 nav{
     background-color: #999;
     padding: 10px;
 }
-img{
-     
-    width: 15px;
-}
+
+

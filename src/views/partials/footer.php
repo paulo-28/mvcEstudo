@@ -5,6 +5,7 @@
         text-align:center;
         padding: 20px;
         color: #ffffff;
+        font-size:20px;
     }
 </style>
 <footer>
