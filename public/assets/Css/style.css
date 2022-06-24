@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin: 20px;
+}
+table{
+    margin-top: 20px;
+}
+table th{
+    padding: 10px;
+    background-color: #999;
+}
+table th td{
+    padding: 10px;
+    
+}
+table tr:hover td {
+    background-color: #eee;
+}
+a{
+    font-size: 16px;
+    padding-right:20px ;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+}
+a:hover{
+    
+    color:crimson;
+}
+nav{
+    background-color: #999;
+    padding: 10px;
+}
+img{
+     
+    width: 15px;
+}
